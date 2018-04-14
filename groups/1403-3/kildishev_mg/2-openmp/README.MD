@@ -3,9 +3,9 @@
 - solver.cpp - решение задачи(последовательная реализация алгоритма Дейкстры). ([solver](https://github.com/mkildishev/parprog-2018-1/tree/master/groups/1403-3/kildishev_mg/2-openmp/solver/solver.cpp))
 - before_code.cpp - чтение данных, подготовка данных для исполнения solver.cpp, замер времени и запись результирующих данных в файл. ([solver](https://github.com/mkildishev/parprog-2018-1/tree/master/groups/1403-3/kildishev_mg/2-openmp/solver/before_code.cpp))
 - generator.cpp - генерирует файл с входными данными. В файле представлено количество элементов
-в матрице смежности и сама матрица смежности записанная в один вектор. ([generator](https://github.com/mkildishev/parprog-2018-1/tree/master/groups/1403-3/kildishev_mg/1-test-version/generator"))
+в матрице смежности и сама матрица смежности записанная в один вектор. ([generator](https://github.com/mkildishev/parprog-2018-1/tree/master/groups/1403-3/kildishev_mg/1-test-version/generator))
 - checker.cpp - по выходным данным алгоритма Дейкстры и результатов, полученных
-вычислением вручную(или мат. пакетом) определяет корректность полученного результата. ([checker](https://github.com/mkildishev/parprog-2018-1/tree/master/groups/1403-3/kildishev_mg/1-test-version/checker"))
+вычислением вручную(или мат. пакетом) определяет корректность полученного результата. ([checker](https://github.com/mkildishev/parprog-2018-1/tree/master/groups/1403-3/kildishev_mg/1-test-version/checker))
 
 ## Описание и параметры командной строки для запуска программ
 - generator генерирует файлы с входными данными
